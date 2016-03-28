@@ -23,7 +23,7 @@ Computer Science Student
 
 ## Education
 `2012-2016`
-     __Coronado High school__   High school degree
+__Coronado High school__   High school degree
 
 
 ## Technical skills
