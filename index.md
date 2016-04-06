@@ -30,10 +30,18 @@ __Coronado High school__   High school degree
 
 * HTML and CSS
 * Javascript
-* node.js
-* mongodb
-* angular.js
-* ionic
+* Ionic Framework
+* nodeJS
+* mongoDB
+* Angular.js
+* cordova
+* Strongloop
+* Mean stack
+* github
+* git
+* pivotal tracker
+* Balsmic
+
 
 ## Projects
 
@@ -48,6 +56,7 @@ the options to join other teams that way if you are on multiple sport or work wi
 ### ride-share! App
 This app is being made with a team of five other people it is an app for sharing rides with other users of the app.  This app is for if you are going on a road trip and need someone to help pay for the trip you
 can offer to take that person and they can offer you an amount of money for gas.  It's different from uber and lyft because this app doesn't hire drivers it just lets driver and riders hop in a car and go. 
+The team and I did the full design of the app and worked through the requirements, use cases, and models together.  The work has been kept on github so everyone on the team has constant access to the latest updates.
 
 ## Achievements
 
