@@ -36,7 +36,7 @@ __Coronado High school__   High school degree
 * Angular.js
 * cordova
 * Strongloop
-* Mean stack
+* MEAN stack
 * github
 * git
 * pivotal tracker
