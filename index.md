@@ -19,7 +19,7 @@ Computer Science Student
 
 ## Currently
 
-Right now I am wrapping up highschool and am at softstackfactory working on the ride-share by SSF app.
+I am currently at SoftStack Factory, it is a twelve week coding camp where I have learned JavaScript and frameworks to make hybrid mobile apps with backends to support the application.
 
 ## Education
 `2012-2016`
@@ -40,7 +40,7 @@ __Coronado High school__   High school degree
 * github
 * git
 * pivotal tracker
-* Balsmic
+* Balsamic
 
 
 ## Projects
